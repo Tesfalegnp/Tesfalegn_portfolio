@@ -29,8 +29,8 @@ export default function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'tesfalegn@example.com',
-      href: 'mailto:tesfalegn@example.com',
+      value: 'peterhope935@gmail.com',
+      href: 'mailto:peterhope935@gmail.com',
       color: 'from-cyan-500 to-blue-600'
     },
     {
@@ -59,13 +59,13 @@ export default function Contact() {
     },
     {
       icon: Linkedin,
-      href: 'https://linkedin.com/in/tesfalegn-petros',
+      href: 'https://www.linkedin.com/in/developertesfalegn/',
       label: 'LinkedIn',
       color: 'hover:bg-blue-500/10'
     },
     {
       icon: Mail,
-      href: 'mailto:tesfalegn@example.com',
+      href: 'mailto:peterhope935@gmail.com',
       label: 'Email',
       color: 'hover:bg-purple-500/10'
     }
@@ -271,7 +271,7 @@ export default function Contact() {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
-                href="mailto:tesfalegn@example.com"
+                href="mailto:peterhope935@gmail.com"
                 className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 text-white rounded-xl font-semibold hover-lift glow-on-hover flex items-center space-x-3"
               >
                 <Mail size={20} />

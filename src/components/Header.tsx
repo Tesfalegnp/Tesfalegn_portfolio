@@ -96,8 +96,8 @@ export default function Header() {
           <div className="hidden md:flex items-center space-x-3">
             {[
               { icon: Github, href: 'https://github.com/tesfalegnp', label: 'GitHub' },
-              { icon: Linkedin, href: 'https://linkedin.com/in/tesfalegn-petros', label: 'LinkedIn' },
-              { icon: Mail, href: 'mailto:tesfalegn@example.com', label: 'Email' }
+              { icon: Linkedin, href: 'https://linkedin.com/in/developertesfalegn', label: 'LinkedIn' },
+              { icon: Mail, href: 'mailto:peterhope935@gmail.com', label: 'Email' }
             ].map((social, index) => (
               <a
                 key={social.label}
@@ -144,8 +144,8 @@ export default function Header() {
             <div className="flex space-x-4 pt-4 border-t border-cyan-500/20">
               {[
                 { icon: Github, href: 'https://github.com/tesfalegnp' },
-                { icon: Linkedin, href: 'https://linkedin.com/in/tesfalegn-petros' },
-                { icon: Mail, href: 'mailto:tesfalegn@example.com' }
+                { icon: Linkedin, href: 'https://linkedin.com/in/developertesfalegn' },
+                { icon: Mail, href: 'mailto:peterhope935@gmail.com' }
               ].map((social, index) => (
                 <a
                   key={index}

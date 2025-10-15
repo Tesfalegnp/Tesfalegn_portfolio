@@ -34,8 +34,8 @@ export default function Footer() {
 
   const socialLinks = [
     { icon: Github, href: 'https://github.com/tesfalegnp', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://linkedin.com/in/tesfalegn-petros', label: 'LinkedIn' },
-    { icon: Mail, href: 'mailto:tesfalegn@example.com', label: 'Email' }
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/developertesfalegn/', label: 'LinkedIn' },
+    { icon: Mail, href: 'mailto:peterhope935@gmail.com', label: 'Email' }
   ];
 
   return (
@@ -150,11 +150,6 @@ export default function Footer() {
         </div>
 
         {/* Inspiration Quote */}
-        <div className="text-center mt-8 pt-8 border-t border-slate-800">
-          <p className="text-gray-500 text-sm italic">
-            "The best way to predict the future is to invent it." - Alan Kay
-          </p>
-        </div>
       </div>
     </footer>
   );
