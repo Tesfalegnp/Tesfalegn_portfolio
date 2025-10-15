@@ -141,7 +141,7 @@ export default function Hero() {
             <div className="relative">
               <div className="gradient-border rounded-3xl p-2 hover-lift">
                 <img
-                  src="./public/my_image.jpg"
+                  src="/image/my.jpg"
                   alt="Tesfalegn Petros"
                   className="rounded-2xl object-cover shadow-2xl"
                   style={{
